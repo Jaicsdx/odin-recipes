@@ -5,9 +5,10 @@ div {
     text-align: center;
     font-weight: bold;
   }
-  img{
+  
     
-  margin-left: auto;
-  margin-right: auto;
-  width: auto;
-  }
+body{
+background-color: green;
+color: white;
+font: size 18px;
+}
