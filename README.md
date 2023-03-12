@@ -6,3 +6,4 @@ ok it didnt work first time
 
 checking again for adding and commiting ..
 another commit with am
+git commit -am "comment"
