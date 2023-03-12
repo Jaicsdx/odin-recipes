@@ -5,3 +5,4 @@ checking adding and commiting at the same time
 ok it didnt work first time
 
 checking again for adding and commiting ..
+another commit with am
